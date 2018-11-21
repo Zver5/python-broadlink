@@ -2,8 +2,9 @@ Python control for Broadlink RM2 IR controllers
 ===============================================
 
 * Обработки зависимостей для broadlink==0.5
-* Скачайте передите в папку
-* `https://github.com/Zver5/python-broadlink`
+* Скачайте 
+* `sudo git clone https://github.com/zver5/python-broadlink`
+* перейдите в папку
 * `cd python-broadlink`
 * Запустите установку
 * `sudo python setup.py install`
