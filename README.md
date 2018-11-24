@@ -2,6 +2,7 @@ Python control for Broadlink RM2 IR controllers
 ===============================================
 
 * Обработки зависимостей для broadlink==0.5
+* Некоторые скрипты работают толоько со старыми версиями библиотек, в частности скрипт работы удлинителя Broadlink Mp1
 * Скачайте 
 * `sudo git clone https://github.com/zver5/python-broadlink`
 * перейдите в папку
